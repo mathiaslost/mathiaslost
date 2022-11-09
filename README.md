@@ -23,5 +23,5 @@ ____
   ##
     
  <div>
- ![Snake animation](https://github.com/mathiaslost/mathiaslost/blob/main/github-contribution-grid-snake.svg)
 </div>
+![](https://github.com/mathiaslost/mathiaslost/blob/main/github-contribution-grid-snake.svg)
