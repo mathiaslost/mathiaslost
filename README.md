@@ -23,5 +23,5 @@ ____
   ##
     
  <div>
-</div>
-![](https://github.com/mathiaslost/mathiaslost/blob/main/github-contribution-grid-snake.svg)
+  <img align="center" src="https://github.com/mathiaslost/mathiaslost/blob/main/github-contribution-grid-snake.svg">
+ </div>
