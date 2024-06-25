@@ -2,6 +2,8 @@
 
 I started my studies in 2017, now I have a degree in Systems **Analysis and Development** and **IT Management** as well. Today I work as a **Java Web Developer Jr** at Fertipar, a Brazilian fertilizer company! I have knowledge in several areas of programming and technologies, although my main stack is in **Front-End**.
 
+I am sure that when there is individual commitment, teamwork becomes even more efficient.
+
 Welcome to my profile, enjoy!
 ____
 
