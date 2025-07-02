@@ -21,9 +21,7 @@ ____
 <img align="center" alt="Jhoisz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg">
 <img align="center" alt="Jhoisz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
 </div> 
+
+ ![visitas](https://visitor-badge.laobi.icu/badge?page_id=mathiaslost)
   
   ##
-    
- <div>
-  <img align="center" src="https://github.com/mathiaslost/mathiaslost/blob/main/github-contribution-grid-snake.svg">
- </div>
